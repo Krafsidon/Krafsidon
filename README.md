@@ -1,1 +1,1 @@
-Hello, we are Krafsidon, and we are the developers of Pelion OS
+Hello, we are Krafsidon, the developers of Pelion OS

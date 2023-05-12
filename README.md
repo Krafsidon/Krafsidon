@@ -1,1 +1,1 @@
-Hello, we are Krafsidon, the developers of Pelion OS
+We recently decided to stop developing Pelion OS due to a lack of time and the lack of need for yet another Linux distro. This profile will remain active in case we decide to resume work on our software. Our website and all other repositories that we have created are currently down.
